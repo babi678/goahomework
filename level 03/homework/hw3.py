@@ -45,3 +45,6 @@ print(nickname+feeling+job+x+y)
 NAME="babi"
 number=10
 print(NAME*number)
+
+# davaleba 7
+# სტინგ ტიპის ფუნქციას ვერ დავუმატებთ ინტეჯერს რადგან ტექსტურ მონაცემს ვერ დავუმატებთ რიცხვს და ამოაგდებს ერორს

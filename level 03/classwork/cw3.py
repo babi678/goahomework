@@ -20,4 +20,16 @@ NUM_1=2.4
 NUM_2=3.4
 NUM_3=5.7
 NUM_4=2.9
-print(name_1,name_2)
+print(name_1,name_2,name_3,name_4)
+print(num_1,num_2,num_3,num_4)
+print(NUM_1,NUM_2,NUM_3,NUM_4)
+
+user_name="goga" 
+# procentis nishani ewera
+user_surname="chalauri"
+# space it iyo dashorebuli 
+first_number=200
+# chveulebrivi tire ewera
+second_number=123
+# wertilit iyo dawerili
+

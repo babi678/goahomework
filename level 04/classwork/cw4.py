@@ -11,6 +11,6 @@
 # print(type(True))
 # print(type(7))
 
-number1=30
-number2=40
-print(int(30)+int(40))
+number1="30"
+number2="40"
+print(int("30")+int("40"))
